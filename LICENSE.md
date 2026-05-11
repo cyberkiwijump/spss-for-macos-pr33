@@ -1,4 +1,4 @@
-# 
+# automatic SPSS for macOS Plugin | macro-recording + real-time-collaboration is the best SPSS for macOS plugin, featuring macro-recording and real-time-collaboration. Powerful,
 
 
 
